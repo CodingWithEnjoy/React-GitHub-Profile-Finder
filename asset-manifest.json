@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-GitHub-Profile-Finder/static/css/main.cf22d627.css",
+    "main.js": "/React-GitHub-Profile-Finder/static/js/main.d7e4d72f.js",
+    "static/media/spinner.gif": "/React-GitHub-Profile-Finder/static/media/spinner.e2ffacc949faa6aeba7c.gif",
+    "index.html": "/React-GitHub-Profile-Finder/index.html",
+    "main.cf22d627.css.map": "/React-GitHub-Profile-Finder/static/css/main.cf22d627.css.map",
+    "main.d7e4d72f.js.map": "/React-GitHub-Profile-Finder/static/js/main.d7e4d72f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf22d627.css",
+    "static/js/main.d7e4d72f.js"
+  ]
+}
